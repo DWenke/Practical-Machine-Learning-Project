@@ -7,7 +7,7 @@ Date: November 19, 2016
 
 Output: 
 - R Markdown
-- Compiled HTML
+- [HTML link] (gh-pages/PML_Project.html) 
 - Data Files
 
 # Project Background
