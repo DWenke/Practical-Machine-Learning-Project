@@ -41,4 +41,4 @@ Your submission should consist of a link to a Github repo with your R markdown a
 
 # HTML Submission
 
-Access the compiled HTML with this link (also in the gh-pages branch) of this Github repository.
+Access the compiled HTML with this [link] (gh-pages/PML_Project.html) also in the gh-pages branch of this Github repository.
